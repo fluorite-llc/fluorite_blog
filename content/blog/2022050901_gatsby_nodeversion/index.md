@@ -24,7 +24,7 @@ description: v12系だとエラーになったんです。
 
 ビルド時の環境 NODE_VERSION を追加します。
 
-![NODE_VERSION](../first_post/screenshot_2022-05-08_8.44.13.png)
+![NODE_VERSION](./screenshot_2022-05-08_8.44.13.png)
 
 これでビルドが成功するようになります。
 
@@ -42,6 +42,13 @@ Check Node’s releases document for version statuses.
 
 [v4.0リリースノート](https://www.gatsbyjs.com/docs/reference/release-notes/v4.0/#node-14)
 
+
+## ■ 単純な理由で安心しましたね
+
+Cloudflare Pages は 指定したブランチにpushすればビルドが実行されるのでとても便利ですね。Github Actions を使って同様のことができるとはいえ、ビルド方法がプリセットされているのでポチポチと設定するだけで良いというのは取っ付き易いと感じました。
+
+今後も継続していきます。あとGatsbyに機能追加なども検討したいですね。
+それでは!!
 
 ## ■ 参考リンク
 
