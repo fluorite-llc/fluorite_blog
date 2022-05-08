@@ -8,13 +8,13 @@ description: "First Post"
 
 弊社のBlogを開設するにあたり、GatsbyというCMSフレームワークを使うことにしました。
 
-CloudFlareを使ってみたいと思って調べていたらGatsbyに出会ったという流れでして。新し物好きの血が騒ぎましたね。
+Cloudflareを使ってみたいと思って調べていたらGatsbyに出会ったという流れでして。新し物好きの血が騒ぎましたね。
 
 ## ■ やったこと
 
 - Google Domainsでドメインを取得する
   - 取得済みのドメインがあったのでそれを使っています
-- CloudFlareのアカウントを作成して Google Domains でカスタムDNSの設定をする
+- Cloudflareのアカウントを作成して Google Domains でカスタムDNSの設定をする
   - WhoisのDNSレコードを変更することに相当しますね。簡単にできるGoogle DomainsのUIがうれしかったです
 - 開発マシン上にGatsbyをインストール
   - 初回は素直に直接インストールすることにしました
